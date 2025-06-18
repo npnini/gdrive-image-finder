@@ -1,0 +1,9 @@
+{
+  "name": "gdrive-image-finder",
+  "version": "7.0.0",
+  "description": "Finds new images in Google Drive, sorted by modification time.",
+  "main": "index.js",
+  "dependencies": {
+    "googleapis": "^128.0.0"
+  }
+}
